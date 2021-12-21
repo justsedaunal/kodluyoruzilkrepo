@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](http://a.com) Front-End Eğitiminde oluşturduğumuz ilk re
 
 # installation
 
---------------------------------------------------------------------------------------------------
+
 
 Öncelikle projeyi clonelayın.
 ```
@@ -15,7 +15,7 @@ https://github.com/justsedaunal/kodluyoruzilkrepo.git
 
 # usage
 
---------------------------------------------------------------------------------------------------
+
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
