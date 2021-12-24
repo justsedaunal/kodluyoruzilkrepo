@@ -6,3 +6,5 @@ aşağıda görsel halini görebilirsiniz.
 
  ![cikolatalı kup tarifi gorsel](cikolatalıkuptarifi.png)
 
+ ![alt text](http://url/to/cikolatalıkuptarifi.png)
+
