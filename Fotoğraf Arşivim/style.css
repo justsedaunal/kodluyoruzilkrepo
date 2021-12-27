@@ -1,0 +1,36 @@
+body{
+    font-family: 'Indie Flower', cursive;}
+
+.header {
+    color:rgb(27, 112, 112);
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+    list-style: none;
+    
+  }
+
+  ol li {
+      display: inline;
+      padding: 2em 2em;
+  }
+
+  .h2 {
+      text-align: center;
+      color: rgb(197, 59, 112);
+  }
+
+  article p {
+      text-align: center;
+  }
+
+  article ul li {
+      text-align: center;
+      list-style-position: inside;
+  }
+
+  .images {
+      text-align: center;
+  }
