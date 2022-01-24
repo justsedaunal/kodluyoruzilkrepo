@@ -3,6 +3,7 @@
 Bu proje patika.dev tarafından verilen eğitim doğrultusunda yapmış olduğum html ve css le yapılan basic bir sitedir.
 
 https://user-images.githubusercontent.com/83344740/147513865-327a5552-fbe9-4430-945e-e056cb776a78.mp4
+<<<<<<< HEAD
 
 # Bootstrap Özelliklerini Kullanarak Yaptığımız Siteyi Geliştirelim
 
@@ -18,3 +19,5 @@ Hatırlar mısınız CSS'in ilk ödevinde boynu bükük bir site yapmıştık. B
 
 https://user-images.githubusercontent.com/83344740/150864541-32779104-f5b1-4e0c-b2d3-daefa6371cec.mp4
 
+=======
+>>>>>>> 31c8f832d970296ce6797633f0db9430ab087c67
